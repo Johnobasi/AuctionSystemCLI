@@ -1,3 +1,4 @@
+![bid](https://github.com/Johnobasi/AuctionSystemCLI/assets/33833183/63996db5-bc5b-4d50-84b1-aaf531ee1978)
 Process of the AuctionSystemCLI:
 
 Initialization:
